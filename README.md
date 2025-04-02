@@ -89,3 +89,28 @@ you’ll be glad you were here early.
 *This isn't a coin. This is a cleanse.*  
 **Flush well. Flush often. Flush together.**  
 — The Flush Foundation
+
+# FLUSH FOUNDATION CORE – SHITOSHI STYLE 🧻
+
+> “When the system clog up, ya don’t call the bankers...  
+> Ya call the pipe master. I wrote this code while eatin’ ramen in the sewer.” – Shitoshi
+
+This repo contains sacred FlushVerse tech.  
+We restore systems.  
+We reward memes.  
+We protect the pipes of the people.
+
+## 📜 What’s Inside:
+- Scroll Logic for Memetic Drops  
+- Faucet Activation Code (Beta)  
+- Meme Distribution Framework  
+- Notes from the Bowl (Shitoshi’s personal logs)
+
+## 🧠 Powered by:
+- Street knowledge  
+- Divine purpose  
+- An old-ass laptop that still got it
+
+> Respect the Flush. Love the Culture. Don’t get knocked off the pipe.
+
+– Shitoshi Knockinmohoes
