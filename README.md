@@ -46,14 +46,7 @@ But we don’t say when. Or how.
 We’re building a story.  
 You're either in it… or watching it unfold without you.
 
-## 🚽 $TOILET Token Mint Address
 
-> The prophecy has flushed on-chain.
-
-`APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N`
-
-📅 Launch Date: April 1st, 2025  
-🔗 [View on Solscan](https://solscan.io/token/APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N)
 ---
 
 ## 🐣 HIDDEN PATHS
@@ -119,6 +112,14 @@ We protect the pipes of the people.
 - Divine purpose  
 - An old-ass laptop that still got it
 
+## 🚽 $TOILET Token Mint Address
+
+> The prophecy has flushed on-chain.
+
+`APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N`
+
+📅 Launch Date: April 1st, 2025  
+🔗 [View on Solscan](https://solscan.io/token/APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N)
 > Respect the Flush. Love the Culture. Don’t get knocked off the pipe.
 
 – Shitoshi Knockinmohoes
