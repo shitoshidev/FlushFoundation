@@ -46,6 +46,7 @@ But we don’t say when. Or how.
 We’re building a story.  
 You're either in it… or watching it unfold without you.
 
+🔗 [TOILET MINT ADDRESS](https://solscan.io/token/APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N)
 ---
 
 ## 🐣 HIDDEN PATHS
