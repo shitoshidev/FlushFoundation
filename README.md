@@ -18,7 +18,7 @@ And those who stick around… will laugh, earn, and witness something eternal.
 The Flush Foundation is committed to **real-world donations and community support.**
 
 We give publicly from this tracked wallet:  
-🧾 `solana_wallet_address_here`  
+🧾 8nksxxTkEreYzPPhncrakjhgj8McwHTeXTeefaXBb1HZ
 *(This wallet is used **exclusively** for giving and donation campaigns.)*
 
 We give:
