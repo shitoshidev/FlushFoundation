@@ -1,5 +1,5 @@
 # 💧 Flush Foundation
-*Restoring Culture One Flush at a Time*
+*Restoring Order One Flush at a Time*
 
 ---
 
