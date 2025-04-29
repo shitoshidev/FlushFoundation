@@ -118,7 +118,7 @@ We protect the pipes of the people.
 
 `APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N`
 
-📅 Launch Date: April 1st, 2025  
+📅 Launch Date:2025  
 🔗 [View on Solscan](https://solscan.io/token/APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N)
 > Respect the Flush. Love the Culture. Don’t get knocked off the pipe.
 
