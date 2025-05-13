@@ -18,7 +18,7 @@ And those who stick around… will laugh, earn, and witness something eternal.
 The Flush Foundation is committed to **real-world donations and community support.**
 
 We give publicly from this tracked wallet:  
-🧾 8nksxxTkEreYzPPhncrakjhgj8McwHTeXTeefaXBb1HZ
+🧾 FJkpZZNDVEpzFKYh6cr8CaD2ciF7E6ekTWfaJ41FTemc
 *(This wallet is used **exclusively** for giving and donation campaigns.)*
 
 We give:
@@ -122,4 +122,4 @@ We protect the pipes of the people.
 🔗 [View on Solscan](https://solscan.io/token/APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N)
 > Respect the Flush. Love the Culture. Don’t get knocked off the pipe.
 
-– Shitoshi Knockinmohoes
+– Shitoshi Knockinmohoe
