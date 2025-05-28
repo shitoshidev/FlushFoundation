@@ -116,10 +116,11 @@ We protect the pipes of the people.
 
 > The prophecy has flushed on-chain.
 
-`APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N`
+6rLf7pR2Rscr1hviDKJCSZ2Trm4yBKPmbZni9GrZRRaf
+
 
 📅 Launch Date:2025  
-🔗 [View on Solscan](https://solscan.io/token/APuK1ZCXgA4fmoBZqAuRBFfDaW8vnT3Ct1gY2nVk7A9N)
+🔗 [View on Solscan](https://solscan.io/token/6rLf7pR2Rscr1hviDKJCSZ2Trm4yBKPmbZni9GrZRRaf)
 > Respect the Flush. Love the Culture. Don’t get knocked off the pipe.
 
 – Shitoshi Knockinmohoe
