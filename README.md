@@ -108,7 +108,7 @@ We protect the pipes of the people.
 - Notes from the Bowl (Shitoshi’s personal logs)
 
 ## 🧠 Powered by:
-- Street knowledge  
+- Truth 
 - Divine purpose  
 - An old-ass laptop that still got it
 
